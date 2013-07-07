@@ -1,0 +1,67 @@
+body {margin:0; padding:0; font:0.9em arial,verdana,sans; letter-spacing:0;}
+ul, ol {list-style-type:none;}
+* html ul li {height:1%;}
+* html ul li a  {height:1%;}
+
+a, input, button {font-weight:bold;}
+input[type=text] {text-align: left;}
+select {min-width:350px; padding:0; margin:0;}
+
+#header {width:100%; height:80px; background-color:#002166; line-height: 80px; color:#fff;}
+#header .titulo {font-size:300%; color:#fff; font-family: impact,times,arial; line-height: 70px; letter-spacing: -2px;}
+.error {padding:5px; display:block; background-color:#990000; color:#fff; font-size:14px; float:right;}
+
+.titulo {margin:10px; color:#002166; font-size: 220%; font-weight: bold; line-height: 35px; padding-left: 42px; height:35px; float:left; background: transparent no-repeat left center;}
+
+.estados {background-image: url('../images/mini-estados.jpg');}
+.municipios {background-image: url('../images/mini-municipios.jpg');}
+.distritos {background-image: url('../images/mini-distritos.jpg');}
+.bairros {background-image: url('../images/mini-bairros.jpg');}
+.logradouros {background-image: url('../images/mini-logradouros.jpg');}
+.logradourotipos {background-image: url('../images/mini-logradourotipos.jpg');}
+.unidades {background-image: url('../images/mini-unidades.jpg');}
+.subunidades {background-image: url('../images/mini-subunidades.jpg');}
+.sistemamodulos {background-image: url('../images/mini-sistemamodulos.jpg');}
+.sistemacategorias {background-image: url('../images/mini-sistemamodulos.jpg');}
+.sistemafuncoes {background-image: url('../images/mini-sistemamodulos.jpg');}
+.sistemagrupos {background-image: url('../images/mini-sistemamodulos.jpg');}
+.ocorrenciacategorias {background-image: url('../images/mini-ocorrenciacategorias.jpg');}
+.ocorrenciatipos {background-image: url('../images/mini-ocorrenciatipos.jpg');}
+.hierarquias {background-image: url('../images/mini-hierarquias.jpg');}
+.acaocategorias {background-image: url('../images/mini-ocorrenciacategorias.jpg');}
+.acaotipos {background-image: url('../images/mini-ocorrenciatipos.jpg');}
+.operacoes {background-image: url('../images/mini-sistemamodulos.jpg');}
+
+.descricao {font-size: 130%; padding:0; font-style:italic;}
+
+.separador {width:20%; color:#ddd; text-align:right;}
+
+.resultados-busca {padding:3px 10px; font-weight: bold; text-align: center; color:#fff; text-shadow: 1px 1px 1px #000; margin:0 auto; background-color: #005702;}
+
+#footer {text-align: center; width:100%; font-weight:bold; background-color: #eee; border-top:10px solid #002166; margin-top:5px; float:left; height:80px;}
+
+.botao {
+    color: #fff;
+    border: solid 1px #000;
+    font-size: 80%;
+    font-weight:bold;
+    height: 27px;
+    text-shadow: 0 1px 1px rgba(0,0,0,.6);
+    text-decoration: none;
+
+    -webkit-border-radius: 2em;
+    -moz-border-radius: 2em;
+
+    background: #ccc;
+    background: -webkit-gradient(linear, left top, left bottom, from(#002166), to(#2B4376));
+    background: -moz-linear-gradient(top,  #002166,  #2B4376);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#9e9e9e', endColorstr='#454545'); /* ie7 */
+    -ms-filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#9e9e9e', endColorstr='#454545'); /* ie8 */
+}
+
+#pagination {width:50%; margin:15px auto; height:40px; text-align:center; border:1px dashed #ccc;}
+#pagination li {display:inline; margin:2px;}
+#pagination li strong {font-size:150%; padding:5px;}
+
+
+

@@ -1,0 +1,4 @@
+.menu-inferior {margin:0; text-transform: uppercase; clear:both; line-height: 30px;}
+.menu-inferior li {float:left; margin:3px;}
+.menu-inferior li a {float:left;}
+#content {clear:both;}

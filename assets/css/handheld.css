@@ -1,0 +1,14 @@
+#pagination {width:80%; margin:40px auto 25px auto; text-align:center;}
+#pagination li {display:inline; margin:2px;}
+#pagination li a {display:inline; margin:2px; width:10px; font-size:100%; padding:5px; border:1px solid #ccc; text-decoration:none; background-color: #325570; color:#fff;}
+#pagination li strong {font-size:100%; padding:5px; border:1px solid #ccc;}
+
+.titulo {margin-top:0;}
+.descricao {margin-top:0;}
+.flashmessage {margin-bottom:40px;}
+.error {display:block; color:#fff; background-color:#990000; padding:3px;}
+
+
+#topcontain {margin:0 0 20px 0;}
+
+

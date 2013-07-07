@@ -1,0 +1,3 @@
+.flashmessage {width: 100%; height: 44px; font-size: 140%; font-weight: bold; line-height: 44px; text-align: center; color:#fff; text-shadow: 1px 1px 1px #000; margin:0 auto;}
+.sucess {background-color: #005702;}
+.error {background-color: #A70000;}

@@ -1,0 +1,1 @@
+<h3 class="titulo <?php echo $system->classe;?>" data-inline="true"><?php echo $system->nome;?></h3>
