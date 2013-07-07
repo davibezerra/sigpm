@@ -1,4 +1,4 @@
 sigpm
 =====
 
-Sistema Integrado de Gestão PM o2
+Sistema Integrado de Gestão PM
